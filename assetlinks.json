@@ -1,5 +1,10 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.example.grupi",
-               "sha256_cert_fingerprints": ["46:0D:1F:E4:45:21:B3:D3:0D:66:1A:B9:B9:6A:F6:6A:16:90:E1:68:AC:D8:26:55:88:2F:64:DE:C3:D3:4C:25"] }
-}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.fsokns",
+      "sha256_cert_fingerprints": ["AE:33:08:F3:AB:85:0A:98:C2:74:C6:1D:55:4C:16:5B:28:DF:47:D8:76:0B:37:FC:A4:14:53:1B:C0:B0:61:11"]
+    }
+  }
+]
